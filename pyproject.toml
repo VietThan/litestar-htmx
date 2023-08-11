@@ -9,6 +9,9 @@ packages = [{include = "litestar_htmx"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 litestar = "^2.0.0rc1"
+click = "^8.1.6"
+rich = "^13.5.2"
+structlog = "^23.1.0"
 
 
 [build-system]

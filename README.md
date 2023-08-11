@@ -1,0 +1,1 @@
+Pretty much reverse engineering https://github.com/JacobCoffee/niapi/
